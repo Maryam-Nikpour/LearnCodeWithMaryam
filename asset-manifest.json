@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LearnCodeWithMaryam/%7Brepo-name%7D/static/css/main.c7385371.css",
-    "main.js": "/LearnCodeWithMaryam/%7Brepo-name%7D/static/js/main.20d2026f.js",
-    "static/media/MadimiOne-Regular.ttf": "/LearnCodeWithMaryam/%7Brepo-name%7D/static/media/MadimiOne-Regular.f8a02729fa3101fe9c6d.ttf",
-    "static/media/programming.svg": "/LearnCodeWithMaryam/%7Brepo-name%7D/static/media/programming.54fd2e94ab613a5583609c97e9380d8a.svg",
-    "index.html": "/LearnCodeWithMaryam/%7Brepo-name%7D/index.html",
-    "main.c7385371.css.map": "/LearnCodeWithMaryam/%7Brepo-name%7D/static/css/main.c7385371.css.map",
-    "main.20d2026f.js.map": "/LearnCodeWithMaryam/%7Brepo-name%7D/static/js/main.20d2026f.js.map"
+    "main.css": "/LearnCodeWithMaryam/static/css/main.b3af2b9d.css",
+    "main.js": "/LearnCodeWithMaryam/static/js/main.d9eeb1b8.js",
+    "static/media/MadimiOne-Regular.ttf": "/LearnCodeWithMaryam/static/media/MadimiOne-Regular.f8a02729fa3101fe9c6d.ttf",
+    "static/media/programming.svg": "/LearnCodeWithMaryam/static/media/programming.54fd2e94ab613a5583609c97e9380d8a.svg",
+    "index.html": "/LearnCodeWithMaryam/index.html",
+    "main.b3af2b9d.css.map": "/LearnCodeWithMaryam/static/css/main.b3af2b9d.css.map",
+    "main.d9eeb1b8.js.map": "/LearnCodeWithMaryam/static/js/main.d9eeb1b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7385371.css",
-    "static/js/main.20d2026f.js"
+    "static/css/main.b3af2b9d.css",
+    "static/js/main.d9eeb1b8.js"
   ]
 }
