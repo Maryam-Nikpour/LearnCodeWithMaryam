@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LearnCodeWithMaryam/static/css/main.b3af2b9d.css",
-    "main.js": "/LearnCodeWithMaryam/static/js/main.d9eeb1b8.js",
+    "main.js": "/LearnCodeWithMaryam/static/js/main.f39b13fb.js",
     "static/media/MadimiOne-Regular.ttf": "/LearnCodeWithMaryam/static/media/MadimiOne-Regular.f8a02729fa3101fe9c6d.ttf",
     "static/media/programming.svg": "/LearnCodeWithMaryam/static/media/programming.54fd2e94ab613a5583609c97e9380d8a.svg",
     "index.html": "/LearnCodeWithMaryam/index.html",
     "main.b3af2b9d.css.map": "/LearnCodeWithMaryam/static/css/main.b3af2b9d.css.map",
-    "main.d9eeb1b8.js.map": "/LearnCodeWithMaryam/static/js/main.d9eeb1b8.js.map"
+    "main.f39b13fb.js.map": "/LearnCodeWithMaryam/static/js/main.f39b13fb.js.map"
   },
   "entrypoints": [
     "static/css/main.b3af2b9d.css",
-    "static/js/main.d9eeb1b8.js"
+    "static/js/main.f39b13fb.js"
   ]
 }
